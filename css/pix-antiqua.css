@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'pixantiquamedium';
+    src: url('../fonts/pixantiqua-webfont.eot');
+    src: url('../fonts/pixantiqua-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pixantiqua-webfont.woff2') format('woff2'),
+         url('../fonts/pixantiqua-webfont.woff') format('woff'),
+         url('../fonts/pixantiqua-webfont.ttf') format('truetype'),
+         url('../fonts/pixantiqua-webfont.svg#pixantiquamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

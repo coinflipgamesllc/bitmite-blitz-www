@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://bitmiteblitz.coinflipgames.co
+title: Bitmite Blitz
+email: hi@coinflipgames.co
+author: Coin Flip Games
+description: >
+  Bitmite Blitz is an endless runner with many unique levels and difficulty levels. There is plenty for everyone to enjoy, but we feel people with a competitive spirit will especially fall in love with our game. Not only are there online leaderboards for every stage and difficulty, but there are also 50 different achievements that range from incredibly easy to insanely hard.
+copyright: 'Copyright &copy; 2016 Coin Flip Games, LLC. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: google
+    description: Coming soon to Google Play
+    url: '#' # https://play.google.com/store/apps/details?id=com.CoinFlipGamesLLC.BitmiteBlitz
+  - title: apple
+    description: Coming soon to iOS
+    url: '#' # https://itunes.apple.com/us/app/bitmite-blitz/id1057575330
+  - title: twitter
+    description: Follow us on Twitter
+    url: https://twitter.com/coinflipgames
+
