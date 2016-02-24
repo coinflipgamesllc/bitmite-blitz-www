@@ -24,8 +24,8 @@ permalink: pretty
 
 social:
   - title: google
-    description: Coming soon to Google Play
-    url: '#' # https://play.google.com/store/apps/details?id=com.CoinFlipGamesLLC.BitmiteBlitz
+    description: Out Now on Google Play!
+    url: https://play.google.com/store/apps/details?id=com.CoinFlipGamesLLC.BitmiteBlitz
   - title: apple
     description: Coming soon to iOS
     url: '#' # https://itunes.apple.com/us/app/bitmite-blitz/id1057575330
