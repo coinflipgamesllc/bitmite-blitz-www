@@ -27,8 +27,8 @@ social:
     description: Out Now on Google Play!
     url: https://play.google.com/store/apps/details?id=com.CoinFlipGamesLLC.BitmiteBlitz
   - title: apple
-    description: Coming soon to iOS
-    url: '#' # https://itunes.apple.com/us/app/bitmite-blitz/id1057575330
+    description: Out Now on iOS!
+    url: 'https://itunes.apple.com/us/app/bitmite-blitz/id1057575330?mt=8'
   - title: twitter
     description: Follow us on Twitter
     url: https://twitter.com/coinflipgames
